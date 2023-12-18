@@ -95,21 +95,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jasonCoawette/jasonCoawette/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jason-coawette/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="jason.coawette@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jasonCoawette.jasonCoawette&right_color=lightskyblue"  />
 
 ###
